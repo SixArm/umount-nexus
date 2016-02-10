@@ -1,4 +1,4 @@
-umount-nexus:<br>unmount a Nexus device
+umount-nexus:<br>unmount a Nexus device from a Unix filesystem
 
 Syntax:
 
